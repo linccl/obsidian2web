@@ -1,10 +1,10 @@
 [book]
-authors = ["chenxuan"]
+authors = ["lincc"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "chenxuan'blog"
-description= "chenxuan'blog"
+title = "lincc'blog"
+description= "lincc'blog"
 
 [output.html]
 # defaulr dark theme
