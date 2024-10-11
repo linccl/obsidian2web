@@ -3,8 +3,8 @@ authors = ["lincc"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "lincc'blog"
-description= "lincc'blog"
+title = "永琪的专属教学"
+description= "永琪的专属教学"
 
 [output.html]
 # defaulr dark theme
